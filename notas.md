@@ -1,1 +1,1 @@
-Suporte WS - Agente 0.45.0: a tela aberta como contexto da IA e OS por vídeo. Inclui 0.43.1 e 0.44.0.
+Suporte WS - Agente 0.46.0: app do técnico remodelado, com câmera da OS (foto, vídeo, galeria e qualquer arquivo). Inclui a 0.45.0.
