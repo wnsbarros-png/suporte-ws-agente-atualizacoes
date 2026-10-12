@@ -1,0 +1,16 @@
+{
+  "manifesto": {
+    "schema": 1,
+    "produto": "SuporteWSAgente",
+    "versao": "0.45.0",
+    "arquivo": "SuporteWSAgente.exe",
+    "url": "https://github.com/wnsbarros-png/suporte-ws-agente-atualizacoes/releases/download/v0.45.0/SuporteWSAgente.exe",
+    "tamanho": 65867028,
+    "sha256": "97a99d4fa764021dde155a074bc237ba3e2b3782409582936fd2b345350eeec5",
+    "publicado_em": "2026-10-12T04:20:10+00:00",
+    "authenticode": false,
+    "notas": "Suporte WS - Agente 0.45.0: a tela aberta como contexto da IA e OS por vídeo. Inclui 0.43.1 e 0.44.0.\n"
+  },
+  "chave": "c13d98879eb3a030",
+  "assinatura": "jDMsbAxeBw3FmEiZ4nXuZODmz+4vmCh6yf/HfYlLOZAhqfDZMpLQ8cegM+gAbxIDcID3Dvg8VBik68izlV5ZAQ=="
+}
