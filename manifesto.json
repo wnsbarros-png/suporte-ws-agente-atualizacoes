@@ -1,0 +1,16 @@
+{
+  "manifesto": {
+    "schema": 1,
+    "produto": "SuporteWSAgente",
+    "versao": "0.47.0",
+    "arquivo": "SuporteWSAgente.exe",
+    "url": "https://github.com/wnsbarros-png/suporte-ws-agente-atualizacoes/releases/download/v0.47.0/SuporteWSAgente.exe",
+    "tamanho": 65996905,
+    "sha256": "b05681517a71a38a2a957ba4e9bda6236397f0b1400881a5573528d31f065e09",
+    "publicado_em": "2026-10-13T02:41:56+00:00",
+    "authenticode": false,
+    "notas": "Suporte WS - Agente 0.47.0: câmera do chat com Foto/Vídeo, Nova OS preenchida pela IA quando o cliente não é localizado, arquivos compartilhados com o app (APK 1.6.0) e Treinar a IA. Inclui a 0.46.0.\n"
+  },
+  "chave": "c13d98879eb3a030",
+  "assinatura": "GxP21q3nGa3AN+yBDnBJgvJ8I5wS4YXcm34cAkNJP5hJ6X3geLscc2we23tP5uBcJnHPB9X9eCV/U+XZGeKSCQ=="
+}
